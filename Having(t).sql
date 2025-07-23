@@ -1,0 +1,4 @@
+sELECT *
+fROM parks_and_recreation.EMPLOYEE_DEMOGRAPHICS
+WHERE BIRTH_DATE lIKE '1988%'
+;
